@@ -31,7 +31,7 @@ fw.writerow(['Address','Lat','Long'])
 
 
 htmlBase = 'https://maps.googleapis.com/maps/api/geocode/xml?address='
-api = '&key=AIzaSyBsNtXRijhCY6bap_U94KfuwGG15JrcApw'
+api = ''
 
 for line in fileIn:
 
