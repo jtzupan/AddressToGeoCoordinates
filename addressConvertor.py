@@ -31,7 +31,7 @@ fw.writerow(['Address','Lat','Long'])
 
 
 htmlBase = 'https://maps.googleapis.com/maps/api/geocode/xml?address='
-api = ''
+api = #your google api here
 
 for line in fileIn:
 
